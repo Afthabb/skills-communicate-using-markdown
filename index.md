@@ -9,3 +9,6 @@
 ```python
 print("hello world")
 ```
+- [X] home work
+- [ ] study maths
+- [X] play football
